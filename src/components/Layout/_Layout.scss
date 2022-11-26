@@ -4,8 +4,6 @@
   height: fit-content;
   @include flex(column, none, none);
   position: relative;
-  @import "./components/Footer/Footer";
-  @import "./components/Navbar/Navbar";
   .app {
     padding: 3rem 0 4rem 0;
     width: 100%;

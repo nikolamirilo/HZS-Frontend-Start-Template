@@ -11,7 +11,6 @@ const Navbar = () => {
         <div className="links">
           <button>Home</button>
           <button>Contact</button>
-          <button>Photos</button>
           <button>Add Photo</button>
           <button>Change Theme</button>
         </div>
